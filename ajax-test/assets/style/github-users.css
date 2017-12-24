@@ -1,0 +1,9 @@
+.user{
+display:flex;
+background:#f4f4f4;
+padding: 10px;
+margin-top:10px;
+}
+.user ul{
+list-style: none;
+}
